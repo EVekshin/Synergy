@@ -1,0 +1,14 @@
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\keys4.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\keys4.AssemblyInfoInputs.cache
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\keys4.AssemblyInfo.cs
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\keys4.csproj.CoreCompileInputs.cache
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\bin\Debug\net8.0\keys4.exe
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\bin\Debug\net8.0\keys4.deps.json
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\bin\Debug\net8.0\keys4.runtimeconfig.json
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\bin\Debug\net8.0\keys4.dll
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\bin\Debug\net8.0\keys4.pdb
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\keys4.dll
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\refint\keys4.dll
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\keys4.pdb
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\keys4.genruntimeconfig.cache
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys4\obj\Debug\net8.0\ref\keys4.dll

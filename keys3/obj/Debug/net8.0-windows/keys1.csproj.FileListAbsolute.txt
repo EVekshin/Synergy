@@ -1,0 +1,14 @@
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\bin\Debug\net8.0-windows\keys1.exe
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\bin\Debug\net8.0-windows\keys1.deps.json
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\bin\Debug\net8.0-windows\keys1.runtimeconfig.json
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\bin\Debug\net8.0-windows\keys1.dll
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\bin\Debug\net8.0-windows\keys1.pdb
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\keys1.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\keys1.AssemblyInfoInputs.cache
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\keys1.AssemblyInfo.cs
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\keys1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\keys1.dll
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\refint\keys1.dll
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\keys1.pdb
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\keys1.genruntimeconfig.cache
+D:\YandexDisk\study\work\отчеты по практике\Векшин\технологическая\prog\keys1\obj\Debug\net8.0-windows\ref\keys1.dll
